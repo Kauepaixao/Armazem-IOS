@@ -1,0 +1,49 @@
+.criandoclasse{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 25px;
+}
+
+h2.exemplo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #591E29;
+
+}
+
+#seila{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #591E29;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url('fotos/lindinho.jpg');
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover; height: 1100px;
+}
+h2{
+    text-align: justify;
+}
+h1{
+    border: dotted 3px #022873
+}
+figure{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+figure{
+    border: solid 2px #022873;
+    text-align: center;
+}
+figcaption{
+    text-align: 10px;
+}
