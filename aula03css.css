@@ -20,7 +20,7 @@ h1{
     text-align: center;
 }
 body{
-    background-image: url('fotos/lindinho.jpg');
+    background-image: url('fotos/quarto-escuro-vazio-fundo-futurista-moderno-sci-fi-ilustracao-3d.jpg');
  background-repeat: no-repeat;
  background-position: center;
  background-size: cover; height: 1100px;
@@ -29,7 +29,7 @@ h2{
     text-align: justify;
 }
 h1{
-    border: dotted 3px #022873
+    border: dotted 3px white
 }
 figure{
     text-align: center;
