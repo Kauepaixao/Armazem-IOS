@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+    background-image: url('fotos/fundo-de-ficcao-cientifica-futurista-moderno.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; height: 1100px;
+    text-align: center;
+}
+
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block; 
+    color: black
+}
+nav{
+    padding-top: 20px 20px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+nav a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white
+}
+li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+}
+button{
+    transition: 1s;
+   
+}

@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: whitesmoke;
+    background-image: url('fotos/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; height: 1100px;
+    text-align: center;
+}
+
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block; 
+    color: black
+
+    }
+
+.eu{
+border-radius: 15rem;
+border: solid 0,3rem (0, 0%, 79%, 0.3);
+transition: 0.3s;
+height: 100px
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.about{
+    width: 28rem;
+}
+
+nav{
+    padding-top: 20px 20px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+nav a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white
+}
+li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+}
+button{
+    transition: 1s;
+}
